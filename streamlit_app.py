@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 
 # 타이틀 설정
-st.title("Streamlit 기본 예제")
+st.title("Streamlit theresonlyonebeerleft")
 
 # 서브타이틀
-st.subheader("기본적인 표와 HTML 메시지 생성")
+st.subheader("mm...food")
 
 # 표 데이터 생성
 data = {
@@ -16,7 +16,7 @@ data = {
 df = pd.DataFrame(data)
 
 # 표 출력
-st.write("기본적인 표:")
+st.write("madvillainy:")
 st.dataframe(df)
 
 # HTML 메시지 출력
